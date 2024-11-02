@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on **a social media app (coming soon)**
 
-🌱 I’m currently learning **Apollo Graphql**
+🌱 I’m currently learning **Graphql**
 
 ### 🛠 &nbsp;Tech Stack
 
