@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calebcav&label=Profile%20views&color=0e75b6&style=flat" alt="calebcav" /> </p>
 
-🔭 I’m currently working on **a social media app (coming soon)**
+🔭 I’m currently working on **a social media app (in progress)**
 
 🌱 I’m currently learning **Graphql**
 
