@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calebcav&label=Profile%20views&color=0e75b6&style=flat" alt="calebcav" /> </p>
 
-🔭 I’m currently working on **a social media app (in progress)**
-
 🌱 I’m currently learning in the AI space
 
 ### 🛠 &nbsp;Tech Stack
